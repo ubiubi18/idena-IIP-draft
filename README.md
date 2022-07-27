@@ -64,7 +64,7 @@ This IIP might be opposed by a majority of eligable identities onchain, because 
 
 If implemented right now at those market conditions, it likely would result in an even faster decline of network size in short term, because many pools would need to rearange their strategy or even question their whole profitability of their operations under new conditions. Some of them could shut down operations and sell, while at the same time some solo-miners would feel frustrated about not finding the time for flip production and loosing even those rewards.
 
-Also it is undesirable to loose all farms, they are managed by competent people who understand idena and that do a hell of a job in introducing idena to new humans. It should not be the goal to shut all pools down, just because a few of them have bad habbits.
+Also it is undesirable to loose too many farms, they are managed by competent people who understand idena and that do a hell of a job in introducing idena to new humans. It should not be the goal to shut all pools down, just because a few of them have bad habbits.
 
 But i think the medium term benefits should outweight that risk. 
 
