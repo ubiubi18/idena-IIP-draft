@@ -1,6 +1,6 @@
-# idena-IIP-draft
+ idena-IIP-draft
 
-# IIP-X: Reward early submission of flips higher
+# IIP- : Reward for early submission of flips
 
 # Abstract: 
  Only flips that are submitted with first 8 hours should be rewarded which will result in more AI-resistant flips and higher rewards for unique people.
