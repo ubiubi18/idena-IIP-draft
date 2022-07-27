@@ -1,21 +1,21 @@
 # idena-IIP-draft
 
-#IIP-X: Reward early submission of flips higher
+# IIP-X: Reward early submission of flips higher
 
-#Abstract: 
-#Only flips that are submitted with first 8 hours should be rewarded which will result in more AI-resistant flips and higher rewards for unique people.
+# Abstract: 
+ Only flips that are submitted with first 8 hours should be rewarded which will result in more AI-resistant flips and higher rewards for unique people.
 
-#Motivation:
+# Motivation:
 
 As long as there are no time-constrains submitting flips,big players have legit incentive to centralise their flip-production to be able to extract value more efficient and try to get it done as fast as possible. This leads also to bad practice. Story-template flips can be produced in two minutes and reach more often consensus than genuine flips that take much longer to produce. Unfortunately those repeating story-patterns are less AI-resistant. There are likely other undesirable strategies of big players that enfavor possible sybil attacks and are not covered by the report system. Introducing time-contrains to rewardable submission of flips will make it less profitable to centraly produce flips and favor solo-miners and family-pools over dishonest players.
 
 
-#Technical specification:
+# Technical specification:
 
 If a flip has been submitted within the first 1440 blocks (about 8 hours) of  the epoch and if it does get consensus and is not reported by a majority, a basic flip reward. is payed. The basic reward is calculated based on how early in the epoch the flip was submitted. The later the flip is submitted, the lower the basic flip reward. The reduction factor k is calculated for each submitted flip as k = 1−t⁴ · 0.5, where t ∈ [0..1] is the amount of time that has passed from the start of the timewindow of the first 1440 new blocks of the epoch to the moment of the submission. Flips can be also submitted more than 1440 blocks into the new epoch, but the submitter will receive zero rewards for those flips.
 
 
-#Rationale:
+# Rationale:
 
 Unique people validating (semi-)unique identities are mainly involved in two session tasks: reporting and solving flips. Those tasks cant be centralised or automatised so far and secure idenas semi-unique identity. But they are only responsible for 25% of possible rewards in idenanetwork, while the other 75% of total rewards are extracted in tasks that are prone to centralisation. 
 
@@ -49,15 +49,15 @@ The block explorer indicates: Solo-miners need up to 8 minutes in median to crea
 I may seem more user-friendly to give honest people as much time as possible to come up with good flips instead of producing them in a hurry, it may also seem convenient to outsource the process of flipproduction to people or centralised players who know how to do it better and faster – but lowering and optimising the production costs ultimately hurts a solo-miner more than the risk of loosing a few flip rewards due to the lack of time. If people have about eight rewardable submission hours, that should be in most cases be enough time to theoretically be able to find the time. If people dont find it, they will still have their staking rewards, which will outweight the potential flip rewards losses in most cases.
 
 
-#Backwards Compatibility 
+# Backwards Compatibility 
 
 Is possible each epoch, just like changing the desired timespan.
 
-#Reference Implementation 
+# Reference Implementation 
 
 the proposal leans to the reduction factor of the invitation reward fund, which is proven to work just fine: https://docs.idena.io/docs/wp/economics#invitation-reward-fund
 
-#Security Considerations:
+# Security Considerations:
 
 This IIP might be opposed by a majority of eligable identities onchain, because pools that are bigger than a family will have problems to cover the time limitation, while pools smaller than that as well as unique solo miners might not all see the neccessity and oppose it as well for fearing to loose more rewards. 
 
