@@ -13,7 +13,7 @@ As long as there are no time-constraints submitting flips, big players have legi
 
 # Technical specification:
 
-If a flip has been submitted within the first 1440 blocks (about 8 hours) of  the epoch and if it does get qualified and is not reported by a majority, a basic flip reward  is payed. The basic reward is calculated based on how early in the epoch the flip was submitted. The later the flip is submitted, the lower the basic flip reward. The reduction factor k is calculated for each submitted flip as k = 1−t⁴ · 0.5, where t ∈ [0..1] is the amount of time that has passed from the start of the timewindow of the first 1440 new blocks of the epoch to the moment of the submission. Flips can be also submitted more than 1440 blocks into the new epoch, but the submitter will receive zero rewards for those flips.
+If a flip has been submitted within the first 1440 blocks (about 8 hours) of  the epoch and if it does get qualified and is not reported by a majority, a basic flip reward  is payed. The basic reward is calculated based on how early in the epoch the flip was submitted. The later the flip is submitted, the lower the basic flip reward. The reduction factor k is calculated for each submitted flip as k = 1−t⁴ · 0.5, where t ∈ [0..1] is the amount of time that has passed from the start of the epoch of the first  to the moment of the submission until 1440 new blocks are mined. Flips can be also be submitted more than 1440 blocks into the new epoch, but the submitter will receive zero rewards for those flips.
 
 
 # Rationale:
