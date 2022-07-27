@@ -33,15 +33,15 @@ Story-templates can still be used in this setting, but the risk/profit ratio wil
 
 There are several alternative approaches we could try to deal with bad habbits of centralised flip producers:
 
-Appeal for good will, teach them about implications of their behaviour
+- Appeal for good will, teach them about implications of their behaviour
 
 I think idena has an impressing history of teaching people about best practice. This was absolute worth it! Some big pools do a brilliant job in producing good flips that are sybil-resistant no matter that they are produced centrally. But at this point it seems unlikely that those big players with bad habbits will be unaware of their own worse performance. So appealing for more good will might be ineffective.
 
-Lower or even cut flip all flip rewards to zero
+- Lower or even cut flip all flip rewards to zero
 
 This is neither compatible with the upcoming incentive realignment of grading flips, nor is it desirable in context of staking, because it will make it more expensive for late adopters to collect the required idna for their stake just with work.
 
-Hope for flip grading to solve the issue
+- Hope for flip grading to solve the issue
 
 Flip grading is great but wont cover every aspect of centralised flip production. There will allways be undesirable patterns possible in flip production that are not instantly visible for the flip reporting committee. 
 
@@ -52,7 +52,7 @@ It may seem more user-friendly to give honest people as much time as possible to
 
 # Backwards Compatibility 
 
-Is possible each epoch, just like changing the desired timespan.
+should be similar to the change that introduced a reduction factor over time to the invitation rewards
 
 # Reference Implementation 
 
