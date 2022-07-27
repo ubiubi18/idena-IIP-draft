@@ -18,7 +18,9 @@ If a flip has been submitted within the first 1440 blocks (about 8 hours) of  th
 
 # Rationale:
 
-Unique people validating (semi-)unique identities are mainly involved in two session tasks: reporting and solving flips. Those tasks cant be centralised or automatised so far and secure idenas semi-unique identity. But they are only responsible for 25% of possible rewards in idenanetwork, while the other 75% of total rewards are extracted in tasks that are prone to centralisation. 
+Even a centralised single human player that is able to create one flip every two minutes in a row would only be able to produce flips for up to 10 identities each hour, but not for hundreds of identites at once. That player would need to involve more real people instead, if the task was to create flips for hundreds of delegated identities within a few hours. 
+
+Unique people validating (semi-)unique identities are so far mainly required in two session tasks: reporting and solving flips. Those tasks cant be centralised or automatised and secure idenas semi-unique identity. No matter that they are only responsible for 25% of possible rewards in idenanetwork, while the other 75% of total rewards are extracted in tasks that are prone to centralisation. 
 
 According to the block explorer human farms usualy produce flips in a row over the span of the whole epoch and the fastest of them use strategies like reusing flips or using story-templates to achieve that. Also the badest actors are most competitive to survive low marketcap, since their production costs each flip are smaller. 
 
