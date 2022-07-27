@@ -1,6 +1,6 @@
  idena-IIP-draft
 
-# IIP- : Reward for early submission of flips
+# IIP- : Reward early submission of flips higher
 by ubiubi / @audiodidakt314
 
 # Abstract: 
