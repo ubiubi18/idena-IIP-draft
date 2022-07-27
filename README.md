@@ -47,8 +47,6 @@ This is neither compatible with the upcoming incentive realignment of grading fl
 
 Flip grading is great but wont cover every aspect of centralised flip production. There will allways be undesirable patterns possible in flip production that are not instantly visible for the flip reporting committee. 
 
-The block explorer indicates: Solo-miners need up to 8 minutes in median to create and submit a flip while big pools with centralised flip-production are much faster. The biggest human farm seems to need only like 2 minutes each flip. At the same time there is no indication that multiple people are involved in its creation, otherwise there would be times where several identities of a pool post flips within less than 2 or 3 blocks at the same time. But there is nearly no evidence of such events in the block explorer. This is an indication that most often centralised flip production is indeed done manually by one person at a time. 
-
 It may seem more user-friendly to give honest people as much time as possible to come up with good flips instead of producing them in a hurry, it may also seem convenient to outsource the process of flipproduction to people or centralised players who know how to do it better and faster – but lowering and optimising the production costs of big players ultimately hurts a small player more than the risk of loosing a few flip rewards due to the lack of time. If people have about eight rewardable submission hours, that should in most cases be enough time to arrange a submission. If people dont find the time, they will still have their staking rewards, which will outweight the potential flip rewards losses in most cases.
 
 
