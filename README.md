@@ -1,6 +1,7 @@
  idena-IIP-draft
 
 # IIP- : Reward for early submission of flips
+by ubiubi / @audiodidakt314
 
 # Abstract: 
  Only flips that are submitted with first 8 hours should be rewarded which will result in more AI-resistant flips and higher rewards for unique people.
