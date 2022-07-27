@@ -41,7 +41,7 @@ This is neither compatible with the upcoming incentive realignment of grading fl
 
 Hope for flip grading to solve the issue
 
-	Flip grading is great but wont cover every aspect of centralised flip production. There will allways be undesirable patterns possible in flip production that are not instantly visible for the flip reporting committee. 
+Flip grading is great but wont cover every aspect of centralised flip production. There will allways be undesirable patterns possible in flip production that are not instantly visible for the flip reporting committee. 
 
 The block explorer indicates: Solo-miners need up to 8 minutes in median to create and submit a flip while big pools with centralised flip-production are much faster. The biggest human farm seems to need only like 2 minutes each flip. At the same time there is no indication that multiple people are involved in its creation, otherwise there would be times where several identities of a pool post flips within less than 2 or 3 blocks at the same time. But there is nearly no evidence of such events in the block explorer. This is an indication that most often centralised flip production is indeed done manually by one person at a time. 
 
