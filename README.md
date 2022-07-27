@@ -22,7 +22,7 @@ Unique people validating (semi-)unique identities are mainly involved in two ses
 
 According to the block explorer human farms usualy produce flips in a row over the span of the whole epoch and the fastest of them use strategies like reusing flips or using story-templates to achieve that. Also the badest actors are most competitive to survive low marketcap, since their production costs each flip are smaller. 
 
-Solo-miners and honest pools become faster unprofitable than dishonest players, so the „free market“ enfavors bad habits. 
+Solo-miners and honest pools become faster unprofitable in flip production than dishonest players, so „free market“ logic unfortunately enfavors bad habits. 
 
 The majority of unique people involved in idena flip-sessions  does not even have the chance to earn rewards and secure idena by producing flips! This can be deemed as a security risk alone and makes it at the same time cryptonomically less profitable to be a solo-miner, because big pools that centralise flip-production are faster in producing and submitting flips and thereby lower the median market value of that task. 
 
