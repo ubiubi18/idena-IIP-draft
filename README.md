@@ -18,7 +18,7 @@ If a flip has been submitted within the first 1440 blocks (about 8 hours) of  th
 
 # Rationale:
 
-Even a centralised single human player that is able to create one flip every two minutes in a row would only be able to produce flips for up to 10 identities each hour, but not for hundreds of identites at once. That player would need to involve more real people instead, if the task was to create flips for hundreds of delegated identities within a few hours. 
+Even a centralised single human player that is able to create one flip every two minutes in a row would only be able to produce flips for up to 10 identities each hour, but not for hundreds of identites at once. That player would need to involve more real people instead, if the task was to create flips for hundreds of delegated identities fast. 
 
 Unique people validating (semi-)unique identities are so far mainly required in two session tasks: reporting and solving flips. Those tasks cant be centralised or automatised and secure idenas semi-unique identity. No matter that they are only responsible for 25% of possible rewards in idenanetwork, while the other 75% of total rewards are extracted in tasks that are prone to centralisation. 
 
