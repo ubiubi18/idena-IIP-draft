@@ -1,6 +1,6 @@
  idena-IIP-draft
 
-# IIP- : Highest Reward for early Submission of Flips 
+# IIP- : Higher Reward for early Submission of Flips 
 by ubiubi / @audiodidakt314
 
 # Abstract: 
