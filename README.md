@@ -4,7 +4,7 @@
 by ubiubi / @audiodidakt314
 
 # Abstract: 
- Only flips that are submitted with first 8 hours should be rewarded which will result in more AI-resistant flips and higher rewards for unique people.
+ Only flips that are submitted with first 8 hours of each epoch should be rewarded. This will result in higher rewards for unique people and more AI-resistant flips.
 
 # Motivation:
 
