@@ -8,7 +8,7 @@ by ubiubi / @audiodidakt314
 
 # Motivation:
 
-As long as there are no time-constrains submitting flips,big players have legit incentive to centralise their flip-production to be able to extract value more efficient and try to get it done as fast as possible. This leads also to bad practice. Story-template flips can be produced in two minutes and reach more often consensus than genuine flips that take much longer to produce. Unfortunately those repeating story-patterns are less AI-resistant. There are likely other undesirable strategies of big players that enfavor possible sybil attacks and are not covered by the report system. Introducing time-contrains to rewardable submission of flips will make it less profitable to centraly produce flips and favor solo-miners and family-pools over dishonest players.
+As long as there are no time-constraints submitting flips,big players have legit incentive to centralise their flip-production to be able to extract value more efficient and try to get it done as fast as possible. This leads also to bad practice. Story-template flips can be produced in two minutes and reach more often consensus than genuine flips that take much longer to produce. Unfortunately those repeating story-patterns are less AI-resistant. There are likely other undesirable strategies of big players that enfavor possible sybil attacks and are not covered by the report system. Introducing time-contrains to rewardable submission of flips will make it less profitable to centraly produce flips and favor solo-miners and family-pools over dishonest players.
 
 
 # Technical specification:
