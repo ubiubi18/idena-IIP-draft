@@ -3,6 +3,10 @@
 # IIP- : Higher Reward for early Submission of Flips 
 by ubiubi / @audiodidakt314
 
+## Research disclaimer
+
+This is an experimental research project. I cannot guarantee its security, correctness, or fitness for any purpose. Use it at your own risk, take responsibility for your decisions, independently verify changes, and stay vigilant.
+
 # Abstract: 
  Only flips that are submitted with first 8 hours of each epoch should be rewarded. This will result in higher rewards for unique people and more AI-resistant flips.
 
